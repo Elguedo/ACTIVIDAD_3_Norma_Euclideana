@@ -1,4 +1,4 @@
-# Sistemas que calcula la norma Euclideana (raíz cuadrada de la suma de los cuadrados). usando la arquitectura cliente-servidor, 
+# Sistema que calcula la norma Euclideana (raíz cuadrada de la suma de los cuadrados). usando la arquitectura cliente-servidor, 
 # Desarollada en Ruby usando su framework Rails
 
 vista cliente
