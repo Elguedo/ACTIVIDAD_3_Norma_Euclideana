@@ -1,24 +1,4 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![image](https://github.com/Elguedo/ACTIVIDAD_3_Norma_Euclideana/assets/114593149/28ea98bd-e42d-4c0e-b0c6-8a0b873e51da)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
